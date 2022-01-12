@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploConstrutores", "ExemploConstrutores\ExemploConstrutores.csproj", "{1D18C464-2EBC-4DDB-9EDE-5590CFE4C89C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{F3139ED1-C98A-41EE-B1AF-A00F49F2E225}"
+	ProjectSection(SolutionItems) = preProject
+		Pessoa.cs = Pessoa.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D18C464-2EBC-4DDB-9EDE-5590CFE4C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D18C464-2EBC-4DDB-9EDE-5590CFE4C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D18C464-2EBC-4DDB-9EDE-5590CFE4C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D18C464-2EBC-4DDB-9EDE-5590CFE4C89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3D487C-93CE-4F2F-8434-B9818C984CB6}
+	EndGlobalSection
+EndGlobal
